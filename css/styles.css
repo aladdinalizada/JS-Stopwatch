@@ -1,0 +1,26 @@
+#stopwatch-box {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 8em;
+  letter-spacing: 5px;
+  text-align: center;
+}
+
+#controls {
+  text-align: center;
+}
+
+button {
+  background: deepskyblue;
+  border: 2px solid deepskyblue;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.btn-xlarge {
+  width: 180px;
+  height: 90px;
+  font-size: 2em;
+}
